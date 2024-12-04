@@ -1,0 +1,63 @@
+body{
+    background-image: url(/images/Screenshot\ 2024-10-25\ at\ 11.00.44\ AM.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: none;
+    background-position-y: bottom;
+    background-attachment: fixed;
+}
+header{
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 25px;
+    margin-left: 1800px;
+}
+a{
+    color:antiquewhite;
+}
+a:visited {
+    color: purple; 
+  }
+a:hover {
+    color: darkblue;  
+  }
+.blogs{
+    margin-left: 30px;
+}
+.contact{
+    margin-left: 30px;
+}
+footer{
+    text-align: center;
+    color:aliceblue;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+.container{
+    width: 100%;
+    
+}
+p{
+    display: inline-block;
+    color:azure;
+    width: 50%;
+    font-size: 30px;
+    margin-top: 100px;
+    vertical-align: middle;
+    border: 2px solid;    
+}
+img{
+    display: inline-block;
+    width: 15%;
+    margin-top: 100px;
+    vertical-align: middle;
+    border: 2px solid blue;
+}
+.sidebar{
+    display: inline-block;
+    width: 35%;
+    border: 2px solid pink;
+    vertical-align: top;
+}
